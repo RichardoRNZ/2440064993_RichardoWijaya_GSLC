@@ -1,0 +1,49 @@
+.bg{
+    height: 100vh;
+    background: url('../../assets/images/bg/car.jpg');
+    background-size: cover;
+}
+.intro{
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+.title,.title2{
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 4px;
+    text-align: center;
+}
+.title2{
+
+    padding-top: 10px;
+}
+.trending{
+    height: auto;
+    background: url("../../assets/images/bg/scifi.jpg");
+    background-size: cover;
+}
+#movie-img{
+
+    height: auto;
+
+    background-color: rgb(248, 245, 245);
+    margin: 5px;
+    padding : 5px;
+
+}
+
+.img-fluid{
+    height: 500px;
+
+
+}
+
+.superhero{
+    height: auto;
+    background: url("../../assets/images/bg/spiderman.jpg");
+    background-size: cover;
+}
